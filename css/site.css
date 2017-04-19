@@ -1,0 +1,138 @@
+html{
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+	font-family: 'Roboto Slab', serif;
+	color: #9A9A9A;
+	margin: 0;
+}
+
+div {
+	clear: both;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	font-size: 16.5px;
+}
+
+h1 {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: red;
+}
+
+
+h4 {
+	color: black;
+	float: right;
+	margin: 10px 25px 5px 25px;
+}
+
+.clear {
+    clear: both;
+}
+
+.button {
+	background-color: #EBE9EB;
+	border-style: outset;
+	border-radius: 5px;
+	padding: 1px 50px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	transition-duration: 0.1s;
+}
+
+.button:hover {
+	border-style: inset;
+	font-size: 16.5px;
+}
+
+#tag {
+ font-family: 'Roboto Slab', serif;
+ color: white;
+}
+
+#header {
+	color: white;
+	margin-right: -50px;
+	width: 100%;
+	padding-right: 50px;
+}
+
+
+#top-div {
+	position: relative;
+	float: right;
+	text-align: right;
+	padding-right: 300px;
+	background-color: #1832b2;
+	width: 100%;
+}
+
+#top-image {
+		margin: 0px 85px 35px 400px;
+		float: left;
+}
+
+#mid-image {
+	margin: 50px 150px 35px 85px;
+	float: right;
+}
+
+#button-2 {
+	position: relative;
+	float: right;
+	margin-right: 100px;
+	border: none;
+}
+
+#mid-paragraph {
+	float:left;
+	width: 40%;
+	margin-top: 0;
+	margin-left: 35px;
+	font-size: 18px;
+}
+
+#third-div {
+	padding-right: 40px;
+	padding-left: 40px;
+	column-count: 2;
+	font-size: 18px;
+	background-color: #bcd2f4;
+	width: 100%;
+	color: #26426d;
+	border: 20px solid #bcd2f4;
+	margin-left: -30px;
+	margin-right: -30px;
+}
+
+#paragraph-left {
+	width: 90%;
+}
+
+#paragraph-right {
+	width: 95%;
+}
+
+#github  {
+	float:right;
+	margin: 10px 75px 10px 10px;
+}
+
+#email {
+	float:right;
+		margin: 10px 100px 10px 10px;
+}

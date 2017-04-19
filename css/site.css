@@ -110,7 +110,9 @@ p {
 	width: 40%;
 	margin-top: 0;
 	margin-left: 35px;
-	font-size: 18px;
+	/*font-size: 18px;*/
+	font-size: 8px;
+	color: orange;
 }
 
 #third-div {

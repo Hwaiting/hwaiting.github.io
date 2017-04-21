@@ -7,7 +7,7 @@ html{
 }
 
 body {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Exo 2', sans-serif;
 	color: #9A9A9A;
 	margin: 0;
 }
@@ -113,8 +113,8 @@ h4 {
 	width: 100%;
 	color: #26426d;
 	border: 20px solid #bcd2f4;
-	margin-left: -30px;
-	margin-right: -30px;
+	/*margin-left: -30px;
+	margin-right: -30px;*/
 }
 
 #paragraph-left {
